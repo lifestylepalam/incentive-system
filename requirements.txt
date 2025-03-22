@@ -1,0 +1,8 @@
+streamlit
+pandas
+plotly
+reportlab
+PyPDF2
+fuzzywuzzy
+pillow
+openpyxl
